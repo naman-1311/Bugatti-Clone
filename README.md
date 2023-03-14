@@ -8,6 +8,6 @@ Non-responsive Bugatti Landing page.
 - CSS3
 - JS
 - Website Link : https://bugatti-clone.netlify.app/
-<img align="left" alt="bugatti" width="500" src="https://www.bugatti.com/fileadmin/_processed_/sei/p1/se-image-a1f075c72e3e857346c1ae1222135bd0.webp">
+<img align="left" alt="bugatti" width="450" src="https://www.bugatti.com/fileadmin/_processed_/sei/p1/se-image-a1f075c72e3e857346c1ae1222135bd0.webp">
 
-<img align="right" alt="bugatti" width="500" src="https://www.bugatti.com/fileadmin/_processed_/sei/p1/se-image-8833b709d452429dabfa7119652fd81b.webp">
+<img align="right" alt="bugatti" width="450" src="https://www.bugatti.com/fileadmin/_processed_/sei/p1/se-image-8833b709d452429dabfa7119652fd81b.webp">
